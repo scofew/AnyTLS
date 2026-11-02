@@ -31,7 +31,7 @@
 ## 快速开始
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/Sakimmoe/AnyTLS/main/anytls)
+bash <(curl -sL https://raw.githubusercontent.com/scofew/AnyTLS/main/anytls)
 ```
 
 一路回车即可使用默认配置（随机密码、默认端口、双栈）。
